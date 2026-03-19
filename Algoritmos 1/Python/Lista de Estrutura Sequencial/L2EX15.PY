@@ -1,0 +1,6 @@
+nf = float(input('Insira quantas fornadas foram feitas: '))
+l = (20*nf) 
+p = l-(l/100*5)
+g = int(p*1000/355)
+s = float(p*1000%355)
+print('|Produção total:',p,'litros''|Garrafas:',g,'|Sobra:',s,'ml')
