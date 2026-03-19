@@ -1,2 +1,2 @@
 # Exercícios Faculdade
-Nesse repositório estaria disponibilizando exercícios de algumas disciplinas da faculdade
+Nesse repositório estarei disponibilizando exercícios de algumas disciplinas da faculdade
